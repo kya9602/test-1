@@ -25,7 +25,8 @@
 
 >인용문 (https://google.com)
 
-[강릉원주대] https://www.gwnu.ac.kr/sites/kor/index.do
+[강릉원주대](https://www.gwnu.ac.kr/sites/kor/index.do)
+![강릉원주대](https://www.gwnu.ac.kr/sites/kor/index.do)
 
 한줄소스
 
